@@ -4,12 +4,12 @@
 
 .navbar-custom .navbar-brand,
 .navbar-custom .navbar-text {
-    color: rgba(255,255,255,.8);
+    color: #2B2F47;
 }
 
 /* change the link color */
 .navbar-custom .navbar-nav .nav-link {
-    color: rgba(255,255,255,.5);
+    color: rgba(43,47,71,.5);
 }
 
 /* change the color of active or hovered links */
