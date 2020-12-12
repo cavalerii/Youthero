@@ -23,6 +23,10 @@ footer {
 	background:#90E1E2;
 	color: rgb(43,47,71);
 	text-align: left;
+  	 position: fixed;
+  	 left: 0;
+   	bottom: 0;
+  	 width: 100%;
 }
 
 .footer-container  {
@@ -67,9 +71,4 @@ footer {
     background-color: #90E1E2;
     border-color:  #90E1E2; /*set the color you want here*/
 }
-.footer {
-   position: fixed;
-   left: 0;
-   bottom: 0;
-   width: 100%;
-}
+
