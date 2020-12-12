@@ -61,7 +61,7 @@ a {
     line-height: 40px;
 }
 
-.footer-bottom a:hover, .footer-bottom a:focus { color: #000; }
+.footer-bottom a:hover, .footer-bottom a:focus { color: #888; }
 
 /*This is modifying the btn-primary colors but you could create your own .btn-something class as well*/
 .btn-primary {
