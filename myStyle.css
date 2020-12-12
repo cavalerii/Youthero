@@ -32,6 +32,9 @@ footer {
 .footer-container  {
     padding: 0 120px 0px 120px;
 }
+a {
+  color: rgb(43,47,71);
+}
 
 .footer-left a { color: #ddd; border-bottom: 1px dashed #ddd; }
 .footer-left a:hover, .footer-left a:focus { color: #ddd; border: 0; }
