@@ -9,7 +9,7 @@
 
 /* change the link color */
 .navbar-custom .navbar-nav .nav-link {
-    color: rgba(43,47,71,.5);
+    color: rgba(43,47,71,.8);
 }
 
 /* change the color of active or hovered links */
