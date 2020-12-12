@@ -1,5 +1,5 @@
 .navbar-custom {
-  background-color:#90E1E;
+  background-color:#90e1e;
 }
 
 .navbar-custom .navbar-brand,
@@ -20,7 +20,7 @@
 
 footer {
 	padding: 40px 0 0 0;
-	background:#90E1E2;
+	background:#90e1e2;
 	color: white;
 	text-align: left;
 }
@@ -59,11 +59,11 @@ footer {
 /*This is modifying the btn-primary colors but you could create your own .btn-something class as well*/
 .btn-primary {
     color: #fff;
-    background-color: #90E1E2;
-    border-color: #90E1E2; /*set the color you want here*/
+    background-color: #90Ee1e2;
+    border-color: #90e1e2; /*set the color you want here*/
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary:active:focus, .btn-primary.active, .open>.dropdown-toggle.btn-primary {
     color: #fff;
-    background-color: #90E1E2;
-    border-color: #90E1E2; /*set the color you want here*/
+    background-color: #90e1e2;
+    border-color: #90e1e2; /*set the color you want here*/
 }
