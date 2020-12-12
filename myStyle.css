@@ -67,3 +67,9 @@ footer {
     background-color: #90E1E2;
     border-color:  #90E1E2; /*set the color you want here*/
 }
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+}
