@@ -18,6 +18,11 @@
     color: rgb(43,47,71);
 }
 
+#page-container {
+  position: relative;
+  min-height: 100vh;
+}
+
 footer {
 	padding: 40px 0 0 0;
 	background:#90E1E2;
